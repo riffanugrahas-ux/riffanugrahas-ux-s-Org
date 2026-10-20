@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Manajemen Perusahaan",
+  "description": "Aplikasi manajemen perusahaan terpadu dengan Master Data, Transaksi Data, CRUD, dan Laporan Analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
